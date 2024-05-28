@@ -20,6 +20,7 @@
 独立协同文档:
     独立协同文档是用户真正分享的协同文档
 
+![image text](https://github.com/zhengguo07q/flutter_synergy_editor/blob/2e8bf3b2237c4173cbfa522812403b07a393ba92/doc/2c411c82ffeea3a8f35d75fbc3ad7e7.jpg)
 
     
 "# flutter_synergy_editor" 
