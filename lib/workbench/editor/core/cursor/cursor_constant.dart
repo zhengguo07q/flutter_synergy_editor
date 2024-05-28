@@ -1,0 +1,1 @@
+const Duration kFadeDuration = Duration(milliseconds: 250);
